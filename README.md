@@ -23,7 +23,7 @@
 </div>
 <h2>点击加入 Telegram 电报交流群：</h2>
 <blockquote>
-<p style="text-align: center;"><a href="=https://t.me/qiangfanfan">https://t.me/qiangfanfan</a></p>
+<p style="text-align: center;"><a href="https://t.me/qiangfanfan">https://t.me/qiangfanfan</a></p>
 </blockquote>
 <h2>免费节点及订阅地址：</h2>
 <blockquote>
